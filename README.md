@@ -5,8 +5,6 @@ patika.dev Veri Yapıları ve Algoritmalar Proje 1
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-<img width="414" alt="Merge sort" src="https://user-images.githubusercontent.com/75563269/175070299-69e3fa78-0742-46dc-b35d-0308217a2e10.png">
-
 
 I. [2,27,16,22,18,6] Verilen örüntüde en küçük sayı ile yer değiştirdik. (2 ve 22)
 II. [2,6,16,22,18,27] İkinci en küçük sayı bulunup, yer değiştirildi. (6 ve 27)
